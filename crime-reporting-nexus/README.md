@@ -35,7 +35,7 @@ Frontend: User interface for FIR submission and record viewing
 Backend Server: Handles APIs, file uploads, and database interaction
 
 AI Processing Layer: Performs transcription and NLP-based extraction
-
+***
 📂 Project Structure
 JusticeEcho/
 │
@@ -64,7 +64,7 @@ JusticeEcho/
 ├── tailwind.config.ts       # Tailwind CSS configuration
 ├── tsconfig.json            # TypeScript configuration
 ├── README.md                # Project documentation
-
+***
 🛠️ Technologies Used
 Frontend
 
