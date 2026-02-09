@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+.env
+.env.local
+
+# Python
+myenv/
+__pycache__/
+
+# Uploads & temp
+uploads/
+temp/
+
+# Secrets
+firebase-adminsdk*.json
+
+# Media
+*.mp4
+*.wav
+*.jpg
+*.png
